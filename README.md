@@ -1,2 +1,3 @@
-# siteuploadmk4
-4th and hopefully final attempt at creating my site
+# FiddleSite
+
+Half-baked website to practice the basics of HTML. Works with github pages.
